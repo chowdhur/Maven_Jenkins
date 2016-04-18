@@ -14,10 +14,10 @@ public class TestingDemo {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\chowdhur\\.m2\\repository\\pl\\oakfusion\\chromedriver\\2.9\\chromedriver-2.9\\windows\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://www.facebook.com");
-		
+		/*
 		driver.findElement(By.xpath("//*[@id='email']")).sendKeys("rajdeepdeepbkp@gmail.com");
 		driver.findElement(By.xpath("//*[@id='pass']")).sendKeys("i(love)usomuch!!!");
-		driver.findElement(By.xpath("//*[@id='loginbutton']")).click();
+		driver.findElement(By.xpath("//*[@id='loginbutton']")).click();*/
 		
 		System.out.println("Title: " + driver.getTitle());
 	}
