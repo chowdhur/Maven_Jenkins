@@ -11,8 +11,9 @@ public class TestingDemo {
 	@Test
 	public void test(){
 		System.out.println("I am Rajdeep. I am testing selenium jenkins integration...");
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\chowdhur\\.m2\\repository\\pl\\oakfusion\\chromedriver\\2.9\\chromedriver-2.9\\windows\\chromedriver.exe");
-		WebDriver driver = new ChromeDriver();
+		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\chowdhur\\.m2\\repository\\pl\\oakfusion\\chromedriver\\2.9\\chromedriver-2.9\\windows\\chromedriver.exe");
+		//WebDriver driver = new ChromeDriver();
+		WebDriver driver = new FirefoxDriver();
 		driver.get("http://www.facebook.com");
 		/*
 		driver.findElement(By.xpath("//*[@id='email']")).sendKeys("rajdeepdeepbkp@gmail.com");
