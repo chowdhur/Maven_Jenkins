@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="TestPackage.TestingDemo" time="4.908" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="TestPackage.TestingDemo" time="5.107" errors="0" skipped="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="JOB_NAME" value="Maven-Jenkins-Integration-Demo"/>
@@ -27,7 +27,7 @@
     <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
     <property name="ProgramFiles" value="C:\Program Files (x86)"/>
     <property name="user.language" value="en"/>
-    <property name="BUILD_DISPLAY_NAME" value="#3"/>
+    <property name="BUILD_DISPLAY_NAME" value="#4"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
     <property name="LOCALAPPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local"/>
     <property name="java.version" value="1.8.0_73"/>
@@ -38,7 +38,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="3"/>
+    <property name="BUILD_ID" value="4"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -71,7 +71,7 @@
     <property name="POM_GROUPID" value="TestPackage"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
     <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
-    <property name="BUILD_TAG" value="jenkins-Maven-Jenkins-Integration-Demo-3"/>
+    <property name="BUILD_TAG" value="jenkins-Maven-Jenkins-Integration-Demo-4"/>
     <property name="JENKINS_SERVER_COOKIE" value="be6aad0fd129375e"/>
     <property name="HUDSON_URL" value="http://localhost:8080/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -86,7 +86,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\apache-maven-3.3.9"/>
     <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-agent-1.5.jar;C:\apache-maven-3.3.9\boot\plexus-classworlds-2.5.2.jar;C:\apache-maven-3.3.9/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\apache-maven-3.3.9 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-2.53.3.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 51502"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main C:\apache-maven-3.3.9 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-2.53.3.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.5.jar 52951"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_73/bin;C:\ProgramData\Oracle\Java\javapath;C:\Users\chowdhur\Desktop\sys ad\curl\curl-7.19.4-win32-nossl\curl-7.19.4;C:\Program Files\MongoDB 2.6 Standard Legacy\bin;C:\Program Files (x86)\Symantec\VIP Access Client\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Selenium Dump\apache-ant-1.9.4\apache-ant-1.9.4\bin;C:\Program Files (x86)\Liquid Technologies\Liquid XML 2015\XmlDataBinder13\Redist13\cpp\win32\bin;C:\Program Files\Java\jdk1.8.0_73\bin;C:\Windows\System32;C:\Program Files (x86)\Skype\Phone\;C:\apache-maven-3.3.9\bin;C:\Program Files\OpenVPN\bin;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
@@ -101,7 +101,7 @@
     <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
     <property name="PATH+MAVEN" value="C:\apache-maven-3.3.9/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/Maven-Jenkins-Integration-Demo/3/"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Maven-Jenkins-Integration-Demo/4/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
@@ -116,13 +116,15 @@
 "/>
     <property name="MAVEN_HOME" value="C:\apache-maven-3.3.9"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="3"/>
+    <property name="BUILD_NUMBER" value="4"/>
     <property name="BASE" value="C:\Program Files (x86)\Jenkins"/>
     <property name="JENKINS_URL" value="http://localhost:8080/"/>
     <property name="PROCESSOR_REVISION" value="4501"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
     <property name="UATDATA" value="C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
     <property name="windir" value="C:\WINDOWS"/>
+    <property name="GIT_COMMIT" value="a19e52dad2f60c721add8356acd82ffb3af3b905"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
     <property name="maven3.interceptor" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven31-interceptor-1.5.jar"/>
@@ -131,6 +133,7 @@
     <property name="WINSW_EXECUTABLE" value="C:\Program Files (x86)\Jenkins\jenkins.exe"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
+    <property name="GIT_URL" value="https://github.com/chowdhur/Maven-Jenkins-Integration.git"/>
   </properties>
-  <testcase classname="TestPackage.TestingDemo" name="test" time="4.908"/>
+  <testcase classname="TestPackage.TestingDemo" name="test" time="5.107"/>
 </testsuite>
